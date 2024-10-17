@@ -1,4 +1,4 @@
-# use this to find already converted xslx/xslm and docx files, Then delete the old .doc or .xsl file.
+# use this to find already converted xlsx/xlsm and docx files, Then delete the old .doc or .xls file.
 # Set the path to the folder where your .doc and .xls files are located
 $folderPath = "c:/test/test/test"  # <-- Update this path
 
